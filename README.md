@@ -77,7 +77,6 @@ covid19-time-series-analysis/
 │
 ├── data/        # Raw datasets
 ├── scripts/     # R scripts
-├── outputs/     # Visualizations (optional)
 ├── README.md
 └── .gitignore
 ```
