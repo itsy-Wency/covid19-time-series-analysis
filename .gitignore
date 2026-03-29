@@ -1,0 +1,13 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / temp outputs (optional)
+outputs/*.csv
+outputs/*.rds
