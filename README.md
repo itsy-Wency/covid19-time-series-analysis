@@ -62,11 +62,11 @@ This project analyzes **global COVID-19 time series data** using R. It focuses o
 
 ## 📊 Key Insights
 
-* 📌 COVID-19 exhibited **exponential growth** during early stages
-* 📌 Major peaks occurred around **2021–2022**
-* 📌 Growth rates **declined over time**, indicating stabilization
-* 📌 **USA and India** recorded the highest total cases
-* 📌 Death trends show a **lag effect** relative to confirmed cases
+📌 COVID-19 exhibited **exponential growth** during early stages
+📌 Major peaks occurred around **2021–2022**
+📌 Growth rates **declined over time**, indicating stabilization
+📌 **USA and India** recorded the highest total cases
+📌 Death trends show a **lag effect** relative to confirmed cases
 
 ---
 
